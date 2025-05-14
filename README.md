@@ -49,17 +49,16 @@ Contributions are welcome! Please follow these steps:
 
 2. Create a new branch:
 
-bash
-Copy code
-git checkout -b feature/YourFeature
+   ``` bash
+      git checkout -b feature/YourFeature
+    
 Make your changes and commit them:
 
-bash
-Copy code
-git commit -m "Add YourFeature"
-Push to the branch:
+   ``` bash
+      git commit -m "Add YourFeature"
 
-bash
-Copy code
-git push origin feature/YourFeature
+ Push to the branch:
+
+``` bash
+     git push origin feature/YourFeature
 Open a pull request.
